@@ -17,7 +17,7 @@
 |1B| overhead press | 8 x 8 | 2010 | 60s |
 |----------|----------|-------------|-------|------|
 |2A| barbell split squat | 3 x 6/ea | 2010 | 20s |
-|2B| barpell high pull  | 3 x 8 | 1010 | 20s |
+|2B| barbell high pull  | 3 x 8 | 1010 | 20s |
 |2C| lateral raise | 3 x 12 | 2011 | 60s |
 
 ## Day 3: chest & triceratops  
